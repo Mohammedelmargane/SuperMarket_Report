@@ -31,4 +31,10 @@ The report quantified sales performance, revealed priority areas for improvement
 
 ![Findings](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/Screenshot%202023-10-01%20091442.png)
 
+![Total-Sales-by-day-of-week](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/1.png)
+
+![Median-sales](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/2.png)
+
+![Total-Sales-by-time-of-day](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/3.png)
+
 
