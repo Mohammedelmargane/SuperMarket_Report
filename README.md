@@ -19,7 +19,16 @@ Key insights delivered through the report:
 **Visualizations**
 Data was transformed into visually impactful charts and tables to highlight key trends and variations. Visualizations followed data visualization best practices for easy consumption.
 
+Here's Some Screenshots for the Report 
+![Total-sales-by-Month](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/Screenshot%202023-10-01%20091454.png)
 
+![TotalSales-by-ProductLine&Gender](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/Screenshot%202023-10-01%20091429.png)
 
 **Outcomes**
 The report quantified sales performance, revealed priority areas for improvement, and identified growth opportunities. It enabled data-backed decision making for promotional budget allocation, pricing adjustments, product assortment optimization, and inventory planning. The analysis could be easily updated monthly.
+
+![Executive-Summary](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/Screenshot%202023-10-01%20091406.png)
+
+![Findings](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/Screenshot%202023-10-01%20091442.png)
+
+
